@@ -1,4 +1,4 @@
-day2.java
+
 ## Today I Learned:
 - Variables & Data Types
 - If Else Condition
